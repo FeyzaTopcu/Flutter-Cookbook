@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../feyza-flutter-samples/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../feyza-flutter-samples/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../feyza-flutter-samples/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../feyza-flutter-samples/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../feyza-flutter-samples/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../feyza-flutter-samples/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../feyza-flutter-samples/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/animation_properties_container/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/animation_properties_container/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/animation_properties_container/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/animation_route_transition/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/animation_route_transition/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/animation_route_transition/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/fade_widget_out/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/fade_widget_out/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Animation/fade_widget_out/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/based_orientation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/based_orientation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/based_orientation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/color_font_style/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/color_font_style/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/color_font_style/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/custom_font/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/custom_font/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/custom_font/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/design_add_drawer_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/design_add_drawer_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/design_add_drawer_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/design_display_snacker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/design_display_snacker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/design_display_snacker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/export_fonts_package/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/export_fonts_package/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/export_fonts_package/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/work_with_tabs/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/work_with_tabs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Design/work_with_tabs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/focus_text_fields/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/focus_text_fields/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/focus_text_fields/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/forms_validations/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/forms_validations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/forms_validations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/handle_create/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/handle_create/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/handle_create/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/retrive_value_text_field/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/retrive_value_text_field/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/retrive_value_text_field/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/textfieldlar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/textfieldlar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Forms/textfieldlar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/handle_taps/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/handle_taps/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/handle_taps/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/implents_swipe_dismiss/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/implents_swipe_dismiss/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/implents_swipe_dismiss/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/material_touch_ripples/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/material_touch_ripples/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Gestures/material_touch_ripples/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

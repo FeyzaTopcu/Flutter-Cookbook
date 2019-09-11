@@ -1,0 +1,208 @@
+{
+  "@@last_modified": "2019-08-01T15:27:08.579681",
+  "txtTitleDetail": "ÜRÜN DETAY",
+  "@txtTitleDetail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTitleMyWishlist": "MY WISHLIST",
+  "@txtTitleMyWishlist": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "api_retry_error": "Lütfen tekrar deneyin!",
+  "@api_retry_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "api_default_error": "Birşeyler yanlış gitti!",
+  "@api_default_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "some_error": "Hata meydana geldi!",
+  "@some_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connection_error": "İnternet bağlantınız yok!",
+  "@connection_error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_email": "Boş mail!",
+  "@empty_email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalid_email": "Geçersiz mail!",
+  "@invalid_email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_password": "Şifre alanı boş!",
+  "@empty_password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtCbRemember": "Beni hatırla",
+  "@txtCbRemember": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnLogin": "GİRİŞ",
+  "@txtBtnLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnFilter": "FİLTRELE",
+  "@txtBtnFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnCreatePdf": "PDF OLUŞTUR",
+  "@txtBtnCreatePdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnActShare": "SEÇİLEN VERİLERİ OLUŞTUR",
+  "@txtBtnActShare": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnClearFilter": "FİLTREYİ TEMİZLE",
+  "@txtBtnClearFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnOk": "TAMAM",
+  "@txtBtnOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtBtnSave": "KAYDET",
+  "@txtBtnSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtRetailPrice": "Satış Fiyatı",
+  "@txtRetailPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtJewelryType": "Mücevher Tipi",
+  "@txtJewelryType": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtProductCode": "Ürün Kodu",
+  "@txtProductCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtWeight": "Ağırlık",
+  "@txtWeight": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTotalCost": "Sizin Fiyatınız",
+  "@txtTotalCost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtCollection": "Koleksiyon",
+  "@txtCollection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtGemstones": "Gemstones",
+  "@txtGemstones": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtApplyFilter": "FİLTREYİ UYGULA",
+  "@txtApplyFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtFilterJT": "MÜCEVHER TİPİNE\nGÖRE FİLTRELE",
+  "@txtFilterJT": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtFilterCollection": "KOLEKSİYONA\nGÖRE FİLTRELE",
+  "@txtFilterCollection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHintUserName": "KULLANICI ADI",
+  "@txtHintUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHintPassword": "ŞİFRE",
+  "@txtHintPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHintYourComment": "YORUM",
+  "@txtHintYourComment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtCreatedPdf": "Pdf dosyası başarıyla oluşturuldu.",
+  "@txtCreatedPdf": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupTitle": "BAŞLIK",
+  "@txtPopupTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupItemTypeTitle": "ITEM TYPES",
+  "@txtPopupItemTypeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupDispOptionsTitle": "GÖRÜNTÜLEME SEÇENEKLERİ",
+  "@txtPopupDispOptionsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupCGTitle": "KOLEKSİYON GRUPLAR",
+  "@txtPopupCGTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupPermAlert": "Depo erişimine izin vermeden diğer sayfaya geçemezsiniz.",
+  "@txtPopupPermAlert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupRoutePerm": "İzinlere git",
+  "@txtPopupRoutePerm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupClosePerm": "KAPAT",
+  "@txtPopupClosePerm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtPopupRefusePerm": "Uygulama izinleri red edildi!",
+  "@txtPopupRefusePerm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTitleSalesPrice": "SATIŞ FİYATI",
+  "@txtTitleSalesPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtTitleComment": "YORUM",
+  "@txtTitleComment": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
